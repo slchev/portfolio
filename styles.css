@@ -6,8 +6,7 @@ body {
   padding: 50px;
 }
 h1{
-  border-bottom: 2px solid #5D6063;
-}
+  border-bottom: 2px solid #5D6063;}
 h1, h2{
   padding-top: 20px;
   padding-bottom: 20px;
@@ -47,28 +46,4 @@ em, strong {
 }
 #button-1 {
   background-color: #5D6063;
-}
-ul {
-  list-style-type: none;
-  margin: 10px;
-  padding: 10px;
-  overflow: hidden;
-  background-color: #333;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
 }
