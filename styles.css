@@ -6,7 +6,8 @@ body {
   padding: 50px;
 }
 h1{
-  border-bottom: 2px solid #5D6063;}
+  border-bottom: 2px solid #5D6063;
+text-align: center;}
 h1, h2{
   padding-top: 20px;
   padding-bottom: 20px;
@@ -46,4 +47,12 @@ em, strong {
 }
 #button-1 {
   background-color: #5D6063;
+}
+.menu {
+  color: blue;
+}
+.block {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
 }
